@@ -157,6 +157,10 @@ a:hover {
     background: rgba(255, 255, 255, 1);
 }
 
+.logo-nav {
+    height: 50px;
+}
+
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
     color: rgba(255, 255, 255, 1);
@@ -677,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -686,7 +690,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 50px;
     font-family: "Open Sans";
 }
 
@@ -705,8 +709,9 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 35px;
     line-height: 1.4em;
+    font-weight: 800;
 }
 
 h3 {
@@ -728,6 +733,20 @@ h1 {
 
 h4 {
     color: #333333!important;
+
+}
+
+blockquote {
+    font-style: 15px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+.text-work-client {
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .icons {
