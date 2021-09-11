@@ -836,8 +836,16 @@ ul {
     background-image: url("img/lines-h2-bg.webp");
 }
 
-.bg-banniere {
+.bg-banniere-top {
     background-image: url("img/la-chouette-agence-banniere.webp");
+    height: 450px;
+    width: 100%;
+}
+
+.bg-banniere-bot {
+    background-image: url("img/la-chouette-agence-banniere.webp");
+    height: 300px;
+    width: 100%;
 }
 
 .bg-presentation {
