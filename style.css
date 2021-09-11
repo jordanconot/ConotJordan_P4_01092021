@@ -655,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #1c1c1c!important;
 }
 
 .container {
@@ -755,7 +755,7 @@ ul {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -786,7 +786,7 @@ ul {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: black;
 }
 
 .bgc-atomic-tangerine {
