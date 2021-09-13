@@ -90,10 +90,10 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/* .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
-}
+} */
 
 .b-parallax {
     background-attachment: fixed;
@@ -737,7 +737,13 @@ h4 {
 }
 
 blockquote {
-    font-size: 15px;
+    font-size: 17px;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.asterix {
+    color: #000000;
 }
 
 ul {
@@ -828,13 +834,17 @@ ul {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/dots-bg.webp");
+.texte-black {
+    color: black;
 }
 
-.bg-lines-h2-bg {
+/* .bg-dots-bg {
+    background-image: url("img/dots-bg.webp");
+} */
+
+/* .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.webp");
-}
+} */
 
 .bg-banniere-top {
     background-image: url("img/la-chouette-agence-banniere.webp");
